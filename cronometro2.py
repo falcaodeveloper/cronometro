@@ -1,7 +1,7 @@
 from time import sleep
 
 hora = minuto = segundo = 0
-print('Pressione ENTER tecla para CRONOMETRAR\n')
+print('Pressione ENTER para CRONOMETRAR\n')
 
 while True:
     segundo += 1
